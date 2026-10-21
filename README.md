@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashyx12/agentic-ai-assignment/blob/main/multi_agent_question_paper.ipynb)
 
 ## Run
-Open the notebook in Google Colab and run the cells from top to bottom. A GPU runtime is recommended. It downloads the small open-weight `Qwen/Qwen2.5-0.5B-Instruct` model and runs it inside Colab. **No OpenAI or Gemini API key is required.**
+Open the notebook in Google Colab and run the cells from top to bottom. A GPU runtime is recommended (the 1.5B model may be slow on CPU). It downloads the small open-weight `Qwen/Qwen2.5-1.5B-Instruct` model and runs it inside Colab. **No OpenAI or Gemini API key is required.**
 
 ## Agent workflow
 1. **Blueprint Agent** plans topic coverage and question types.
